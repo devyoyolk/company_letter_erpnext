@@ -1,0 +1,67 @@
+{
+ "category": "Modules",
+ "charts": [],
+ "creation": "2022-05-03 16:43:22.640931",
+ "developer_mode_only": 0,
+ "disable_user_customization": 1,
+ "docstatus": 0,
+ "doctype": "Workspace",
+ "extends_another_page": 0,
+ "hide_custom": 1,
+ "idx": 0,
+ "is_default": 0,
+ "is_standard": 1,
+ "label": "Main",
+ "links": [],
+ "modified": "2022-05-03 16:46:22.622094",
+ "modified_by": "sehan@queens.lk",
+ "module": "Company Letter Management",
+ "name": "Main",
+ "owner": "sehan@queens.lk",
+ "pin_to_bottom": 0,
+ "pin_to_top": 1,
+ "shortcuts": [
+  {
+   "doc_view": "",
+   "label": "Staff Checkin",
+   "link_to": "Employee Checkin",
+   "type": "DocType"
+  },
+  {
+   "doc_view": "",
+   "label": "My Salary",
+   "link_to": "Salary Slip",
+   "type": "DocType"
+  },
+  {
+   "doc_view": "",
+   "label": "My Attendance*",
+   "link_to": "Monthly Attendance Sheet",
+   "type": "Report"
+  },
+  {
+   "doc_view": "",
+   "label": "Staff Advance",
+   "link_to": "Employee Advance",
+   "type": "DocType"
+  },
+  {
+   "doc_view": "",
+   "label": "Change of Attendance",
+   "link_to": "Attendance Request",
+   "type": "DocType"
+  },
+  {
+   "doc_view": "",
+   "label": "Chat of Accounts",
+   "link_to": "Account",
+   "type": "DocType"
+  },
+  {
+   "doc_view": "",
+   "label": "Journal Entry",
+   "link_to": "Journal Entry",
+   "type": "DocType"
+  }
+ ]
+}
